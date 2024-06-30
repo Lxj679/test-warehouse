@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\git\u8FDC\u7A0B\u6258\u7BA1\\test-warehouse\\test6_30\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FBFCDC24-680A-429C-A040-80A381D48A33}|test6_30\\test6_30.vcxproj|E:\\git\u8FDC\u7A0B\u6258\u7BA1\\test-warehouse\\test6_30\\test6_30\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FBFCDC24-680A-429C-A040-80A381D48A33}|test6_30\\test6_30.vcxproj|solutionrelative:test6_30\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test.c",
+              "DocumentMoniker": "E:\\git\u8FDC\u7A0B\u6258\u7BA1\\test-warehouse\\test6_30\\test6_30\\test.c",
+              "RelativeDocumentMoniker": "test6_30\\test.c",
+              "ToolTip": "E:\\git\u8FDC\u7A0B\u6258\u7BA1\\test-warehouse\\test6_30\\test6_30\\test.c",
+              "RelativeToolTip": "test6_30\\test.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-06-30T04:01:12.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
